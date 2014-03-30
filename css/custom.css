@@ -2,14 +2,8 @@ h1,h2,h3,h4,h5,h6 {
     font-family: 'Dancing Script', Georgia, Times, serif;
 }
  
-p, p1, p2{
+p, p1, p2, strong{
     font-family: 'Josefin Sans', Helvetica, Arial, sans-serif;
-}
-
-
-
-p strong {
-	font-style:bold;
 }
 
 .dancing-script {
@@ -82,7 +76,12 @@ img.desaturate {
 }
 
 .ourStoryBackground {
-	background-image:url('../images/chevrons/3-web.jpg');
+	background-image:url('../images/chevrons/1-web.jpg');
+	background-repeat:repeat;
+}
+
+.scheduleOfEventsBackground {
+	background-image:url('../images/chevrons/4-web.jpg');
 	background-repeat:repeat;
 }
 
@@ -97,7 +96,7 @@ img.desaturate {
 }
 
 .scheduleOfEvents {
-	background-image:url('../images/chevrons/1-web.jpg');
+	background-image:url('../images/chevrons/4-web.jpg');
 	background-repeat:repeat;
 }
 
