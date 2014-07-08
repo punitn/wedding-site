@@ -1,0 +1,105 @@
+
+		<section id="weddingdaydetails" style="display:none;" class="weddingPartyBackground">
+			<div class="container white-outline font-size-20-cstm">
+				<div class="row marginTopPad30 headerLeftPad">
+					<div class="row-md-12">
+						<h1 class="font-size-42-cstm">Wedding Day Details</h1>
+					</div>
+				</div>
+				<div class="row headerLeftPad">
+					<h3>When and Where?</h3>
+				</div>
+				<div class="row marginTopPad30">
+					<div class="col-md-10 col-md-offset-1">
+						<p>
+							We are getting married Saturday May 30, 2015 in Brooklyn, NY at the Green Building.  The Green Building is in the Carroll Gardens neighborhood of Brooklyn.  This is the quintessential part of Brooklyn with brownstones and tree lined streets galore.  A Catholic/Hindu multicultural ceremony will take place onsite at the venue followed by drinks, dinner and merriment!
+						</p>
+					</div>
+				</div>
+				<div class="row marginTopPad30 text-center">
+						<p class="font-size-20-cstm">The Green Building <br>452 Union Street <br> Brooklyn, NY 11231</p>
+						<p class="font-size-20-cstm"><br>Ceremony: 5pm<br>Cocktails: 5:45pm<br>Dinner and Dancing: 7pm - 11:30pm</p>
+				</div>
+				<div class="row headerLeftPad">
+					<h3>How Do I Get There?</h3>
+				</div>
+				<div class="row marginTopPad30">
+					<div class="col-md-10 col-md-offset-1">
+						<p>There are several ways to get to the Green Building the day of the wedding.</p>
+					</div>
+				</div>
+				<div class="row marginTopPad30">
+					<div class="col-md-2 col-md-offset-1">
+						<p>Wedding Bus:</p>
+					</div>
+					<div class="col-md-8">
+						<p>We are arranging for a bus to stop at the recommended hotels and on the corner of Smith and Carroll Street at the F, G train stop.  Please RSVP and let us know if you plan on using the bus service.</p>
+					</div>
+				</div>
+				<div class="row marginTopPad30">
+					<div class="col-md-2 col-md-offset-1">
+						<p>Taxi/Car:</p>
+					</div>
+					<div class="col-md-8">
+						<p>NYC taxis should be available on any busy street (<a href="http://gonyc.about.com/a/taxi.htm" target="_blank">How to Hail a Taxi</a>).  Or you could always have the hotel concierge call you a car service.  Tell the driver you are going to The Green Building, which is on Union Street between Nevins and Bond in the Gowanus neighborhood.</p>
+					</div>
+				</div>
+				<div class="row marginTopPad30">
+					<div class="col-md-2 col-md-offset-1">
+						<p>Subway:</p>
+					</div>
+					<div class="col-md-8">
+						<p>There are two subway stops nearby.</p>
+						<p><strong>F/G to Carroll Street - </strong>Walk with traffic on Smith Street. Take a right on Union Street (2-5 blocks depending on subway exit), and continue on two blocks to Bond Street. You’ll see The Green Building on your right, just before the Gowanus canal.</p>
+						<p><strong>R to Union Street - </strong>Walk against traffic on Union St for two and a half long blocks. Continue on Union St. over the Gowanus Canal. You will see the Green Building on your left, just at the corner of Union and Bond Streets.</p>
+					</div>
+				</div>
+				<div class="row marginTopPad30">
+					<div class="col-md-2 col-md-offset-1">
+						<p>Walking:</p>
+					</div>
+					<div class="col-md-8">
+						<p>The three hotels we have blocked rooms at are just under a mile walk to the Green Building.</p>
+					</div>
+				</div>
+				<div class="row marginTopPad30">
+					<div class="col-md-2 col-md-offset-1">
+						<p>Driving:</p>
+					</div>
+					<div class="col-md-8">
+						<p>It's best to plug the address into your phone/GPS and have your electronics guide you. Street parking is available. The address again: 425 Union Street, Brooklyn, NY 11231.</p>
+					</div>
+				</div>
+				<div class="row headerLeftPad">
+					<h3>What Should I Wear?</h3>
+				</div>
+				<div class="row marginTopPad30">
+					<div class="col-md-10 col-md-offset-1">
+						<p>Cocktail attire and Indian clothing are encouraged, however as long as you are there we don’t care what you’re wearing.</p>
+					</div>
+				</div>
+				<div class="row text-center marginBottomPad30">
+					<img src="images/graphics/wreath1.png" height="100px" width="100px">
+					<h2><a href="https://mapsengine.google.com/map/u/0/embed?mid=zSr3f2784s78.kamfz3EkZCiU" target="_blank">Click Here for a Map of Events</a></h2>
+				</div>
+				<div class="row text-center marginTopPad30 marginBottomPad">
+					<p>
+						If you have any questions please feel free to email us:
+						<a href="mailto:questions@hayleyandpunit.com?Subject=Wedding%20Questions" target="_blank">Contact Us</a>
+					</p>
+				</div>
+			</div>
+		</section>
+		
+				
+		<section id="registry" style="display:none;">
+			<div>Registry</div>
+		</section>
+		
+		
+		
+						<li class="navbar-font-cstm" id="navregistry">
+							<a href="#" id="pop navregistry" data-toggle="popover" data-content="Registry">
+								<img src="images/icons/gift.png" height="35px" width="34px"/>
+							</a>
+						</li>
